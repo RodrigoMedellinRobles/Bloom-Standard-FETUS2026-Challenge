@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+checkpoints*/
+logs*/
+results*/
+*.pth
+*.tar.gz
+*.h5
+preprocessing_stats.json
+train_labeled.json
+train_unlabeled.json
+train_unlabeled_combined.json
+valid.json
+valid_challenge.json
+submission/
